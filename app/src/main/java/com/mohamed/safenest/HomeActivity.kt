@@ -56,6 +56,7 @@ class HomeActivity : AppCompatActivity()
             }
             return@setOnItemSelectedListener true
         }
+        binding.bottomNav.selectedItemId = R.id.Home
     }
 
 }
