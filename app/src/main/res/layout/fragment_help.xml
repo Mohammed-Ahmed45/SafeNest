@@ -5,11 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/dark_purple_1"
     android:orientation="vertical"
-    android:padding="16dp"
-    android:shadowColor="#80000000"
-    android:shadowDx="10"
-    android:shadowDy="10"
-    android:shadowRadius="10">
+    android:padding="16dp">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -23,7 +19,7 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:padding="12dp"
-            android:text="steps_when_there_is_danger"
+            android:text="Steps When There Is Danger"
             android:textColor="@android:color/white"
             android:textSize="18sp"
             android:textStyle="bold" />
