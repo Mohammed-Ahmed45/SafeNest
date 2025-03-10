@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:padding="10dp"
         android:textColor="@android:color/white"
-        android:text="wrwerwerwere"
+        android:text="Help"
         android:textSize="16sp" />
 </androidx.cardview.widget.CardView>
 
