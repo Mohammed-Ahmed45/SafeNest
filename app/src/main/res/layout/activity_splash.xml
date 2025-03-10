@@ -20,6 +20,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/rubik_wet_paint"
         android:shadowColor="#80000000"
         android:shadowDx="10"
         android:shadowDy="10"
@@ -27,7 +28,6 @@
         android:text="SafeNest"
         android:textColor="@color/dark_purple_1"
         android:textSize="40dp"
-        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@id/splash_img"
         app:layout_constraintStart_toStartOf="@id/splash_img"
         app:layout_constraintTop_toBottomOf="@id/splash_img" />

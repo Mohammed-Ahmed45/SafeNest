@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262250070918",
+    "project_id": "appa-7a244",
+    "storage_bucket": "appa-7a244.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262250070918:android:e0466b8a3f45451c4ba207",
+        "android_client_info": {
+          "package_name": "com.mohamed.safenest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuAY7rht1EGziHp04EYitMr8v9O3HlXks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

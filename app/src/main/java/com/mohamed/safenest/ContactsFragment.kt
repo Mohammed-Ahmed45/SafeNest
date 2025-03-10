@@ -34,7 +34,10 @@ class ContactsFragment : Fragment()
     {
         val contactList = listOf(
             Contacts(R.drawable.emergency_img, "Ambulance", "123"),
+            Contacts(R.drawable.emergency_img, "Ambulance", "123"),
+            Contacts(R.drawable.emergency_img, "Ambulance", "123"),
             Contacts(R.drawable.fire_ic, "Fire Department", "180"),
+            Contacts(R.drawable.fire_ic, "Rescue Services", "126"),
             Contacts(R.drawable.fire_ic, "Rescue Services", "126")
         )
 
